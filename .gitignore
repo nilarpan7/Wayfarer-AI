@@ -134,3 +134,10 @@ yarn-error.log*
 *.tmp
 *.bak
 *.cache
+
+# ------------------------------------------------------------------------------
+# Internal Development & Planning Specs
+# ------------------------------------------------------------------------------
+implementation_plan.md
+implementation_plan_updated.md
+implementation_plan*.md
